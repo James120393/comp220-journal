@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{He}
+Y.~He, T.~Foley, and K.~Fatahalian, ``A system for rapid exploration of shader
+  optimization choices,'' {\em ACM Trans. Graph.}, pp.~112:1--112:12, 2016.
+
+\bibitem{Jensen}
+P.~D.~E. Jensen, N.~Francis, B.~D. Larsen, and N.~J. Christensen, ``Interactive
+  shader development,'' in {\em Proceedings of the 2007 ACM SIGGRAPH Symposium
+  on Video Games}, (New York, NY, USA), pp.~89--95, ACM, 2007.
+
+\bibitem{Ogak}
+S.~Ogaki, ``Shader development at olm,'' in {\em SIGGRAPH Asia 2015 R and D in
+  the Video Game Industry}, (New York, NY, USA), pp.~5:1--5:2, ACM, 2015.
+
+\bibitem{Fische}
+J.~Fischer, D.~Whittaker, A.~Lefohn, and B.~Gooch, ``Semiautomatic shader code
+  generation for rendering voxelized polygonal models,'' in {\em Proceedings of
+  the 2008 Symposium on Interactive 3D Graphics and Games}, (New York, NY,
+  USA), pp.~14:1--14:1, ACM, 2008.
+
+\bibitem{He:2015}
+Y.~He, T.~Foley, N.~Tatarchuk, and K.~Fatahalian, ``A system for rapid,
+  automatic shader level-of-detail,'' {\em ACM Trans. Graph.},
+  pp.~187:1--187:12, 2015.
+
+\bibitem{Pathak}
+S.~K. Pathak, ``3d graphics hardware and role of shaders,'' in {\em Confluence
+  2013: The Next Generation Information Technology Summit (4th International
+  Conference)}, pp.~351--356, IEEE, 2013.
+
+\end{thebibliography}
