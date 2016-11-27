@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ResearchJournal.aux
+The style file: ieeetr.bst
+I couldn't open database file COMP150_Agile_Essay.bib
+---line 57 of file ResearchJournal.aux
+ : \bibdata{COMP150_Agile_Essay
+ :                             }
+I'm skipping whatever remains of this command
+I found no database files---while reading file ResearchJournal.aux
+Warning--I didn't find a database entry for "manifesto"
+Warning--I didn't find a database entry for "ready"
+Warning--I didn't find a database entry for "Chaos"
+Warning--I didn't find a database entry for "LeaderUnleashed"
+Warning--I didn't find a database entry for "MasterActivities"
+Warning--I didn't find a database entry for "extreme"
+Warning--I didn't find a database entry for "SocialAgile"
+Warning--I didn't find a database entry for "Together"
+Warning--I didn't find a database entry for "Behavior"
+Warning--I didn't find a database entry for "Oxymoron"
+Warning--I didn't find a database entry for "Leader"
+Warning--I didn't find a database entry for "ManagerMaster"
+Warning--I didn't find a database entry for "AdoptAgile"
+(There were 2 error messages)
